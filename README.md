@@ -232,18 +232,29 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![Screenshot 2024-04-26 224356](https://github.com/prideeshm/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/144870483/066f4cb0-0c3f-4a4c-919f-f81c4a48bd51)
 
 
+
 TON = 3*0.2ms = 0.6
+
+
+
+
 TOFF=3*0.2ms =0.6
+
 TOTAL TIME = 1.2
+
 FREQUENCY = 1/1.2 = 0.8333
 
  ## FOR PULSE AT 70%
 
 ![Screenshot 2024-04-26 224647](https://github.com/prideeshm/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/144870483/9118dfd5-d825-4509-b241-9c35402443d7)
 
+
 TON = 4.4 * 0.2 ms = 0.88
+
 TOFF= 1.9 * 0.2 ms =0.38
+
 TOTAL TIME = 1.26
+
 FREQUENCY = 1/1.26 = 0.793
 
 
@@ -252,8 +263,11 @@ FREQUENCY = 1/1.26 = 0.793
 
 
 TON = 5.9 * 0.2 ms = 1.18 ms 
+
 TOFF= 0.5 * 0.2 ms = 0.1ms
+
 TOTAL TIME = 1.28
+
 FREQUENCY = 1/1.28 = 0.781
 
 ## Output screen shots of proteus  :
